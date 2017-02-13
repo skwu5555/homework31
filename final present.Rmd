@@ -1,0 +1,25 @@
+---
+title: "國立台灣大學"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+## 
+
+![](https://seanlee128.github.io/stock-filter/intro.png)
+
+## 
+
+![](https://seanlee128.github.io/stock-filter/book.png)
+
+## 
+
+![](https://seanlee128.github.io/stock-filter/master.png)
+
+##
+
+<a href = "https://dearanita1116.github.io/secondgroup/frame%201129%202%202/index.html" target="_self" title>website</a>
+
+![](https://seanlee128.github.io/stock-filter/qrcode.png)

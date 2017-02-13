@@ -1,0 +1,15 @@
+
+
+git config --list
+git config --global user.name "skwu5555"
+git config --global user.email skwu5555@gmail.com
+
+git clone https://github.com/skwu5555/skwu002.git
+git add .
+git commit -m "first commit"
+git push
+
+rm(list=ls())
+rm(list=c("a","c"))
+ls()
+
